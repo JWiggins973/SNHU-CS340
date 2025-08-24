@@ -5,7 +5,7 @@
 SNHU Dashboard was created to provide a user-friendly UI that enables non-technical users the ability to query a database.
 
 ## Preview 👀
-<img src="Preview/example1.gif" width="500"/>
+<img src="Preview/example1.mp4" width="500"/>
 <img src="Preview/example2.png" width="400"/>
 <img src="Preview/example3.png" width="400"/>
 <img src="Preview/example3.png" width="400"/>
