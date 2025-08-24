@@ -1,6 +1,27 @@
 # CS340
 *Contains my Final project from the term*
 
+## To get a local copy up and running follow these steps 🏃💨 
+*Download zip file (project 2) containing 
+- projectTwo.ipynb
+- projectTwo.py
+*Launch Jupyter notebook and open projectTwo.ipynb
+*Run first cell to launch web application
+
+## Tools (HyperLink to dow load) 🛠️
+MongoDB is used for data storage, and its seamless integration with pymongo. Specifically, it was used to securely connect the CRUD python code to the database and grant read and write permissions. 
+
+3.8+ is used to create the CRUD method and web UI
+
+Dash is used to visualize and interact with the data in a user-friendly UI, through a web application all done in python. To accomplish this a UI is created to display output data, it can be charts graphs maps ect. After creating the UI, the controller is implemented to handle user input and callbacks. These callbacks functions are what link user inputs like widget button presses to filter to update the output displayed
+
+## Additional Resources 📚
+Juypter notebook is the development environment used to develop and test the code
+Pymongo connects python code to MongoDB
+pandas – reading and cleaning data
+matplotlib - create interactive plots 
+numpy - mathematical operations
+
 ## Reflection 📝
 
 ### **How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?**
