@@ -1,6 +1,11 @@
 # CS340
 *Contains my Final project from the term*
 
+## Functionality and purpose
+SNHU Dashboard was created to provide a user-friendly UI that enables non-technical users the ability to query a database.
+
+## Preview
+
 ## To get a local copy up and running follow these steps 🏃💨 
 - Download zip file (project 2) containing 
   - projectTwo.ipynb
