@@ -4,7 +4,8 @@
 ## Functionality and purpose
 SNHU Dashboard was created to provide a user-friendly UI that enables non-technical users the ability to query a database.
 
-## Preview
+## Preview 👀
+
 
 ## To get a local copy up and running follow these steps 🏃💨 
 - Download zip file (project 2) containing 
