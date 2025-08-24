@@ -8,12 +8,10 @@
 - Launch Jupyter notebook and open projectTwo.ipynb
 - Run first cell to launch web application
 
-## Tools (HyperLink to dow load) 🛠️
-MongoDB is used for data storage, and its seamless integration with pymongo. Specifically, it was used to securely connect the CRUD python code to the database and grant read and write permissions. 
-
-3.8+ is used to create the CRUD method and web UI
-
-Dash is used to visualize and interact with the data in a user-friendly UI, through a web application all done in python. To accomplish this a UI is created to display output data, it can be charts graphs maps ect. After creating the UI, the controller is implemented to handle user input and callbacks. These callbacks functions are what link user inputs like widget button presses to filter to update the output displayed
+## Tools (HyperLink to download) 🛠️
+  - [MongoDB](https://www.mongodb.com/try/download/community) – database for storing data
+  - [Python 3.8+](https://www.python.org/downloads/) – programming language
+  - [Dash](https://dash.plotly.com/) – web application framework
 
 ## Additional Resources 📚
 Juypter notebook is the development environment used to develop and test the code
