@@ -2,11 +2,11 @@
 *Contains my Final project from the term*
 
 ## To get a local copy up and running follow these steps 🏃💨 
-* Download zip file (project 2) containing 
-- projectTwo.ipynb
-- projectTwo.py
-* Launch Jupyter notebook and open projectTwo.ipynb
-* Run first cell to launch web application
+- Download zip file (project 2) containing 
+  - projectTwo.ipynb
+  - projectTwo.py
+- Launch Jupyter notebook and open projectTwo.ipynb
+- Run first cell to launch web application
 
 ## Tools (HyperLink to dow load) 🛠️
 MongoDB is used for data storage, and its seamless integration with pymongo. Specifically, it was used to securely connect the CRUD python code to the database and grant read and write permissions. 
