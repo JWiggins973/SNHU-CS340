@@ -1,7 +1,8 @@
 # CS340
-***Contains my Final project from the term***
+*Contains my Final project from the term*
 
 ## Reflection 📝
+
 ### **How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?**
 
 To write programs in a maintainable readable and adaptable way is to is to seperate backend logic from front end logic as well as ensuring each function is doing one sepcific thing with good naming conventions. This not only makes the code easier to read and debug but allows it be be easily adjusted to be resused in future projects. 
