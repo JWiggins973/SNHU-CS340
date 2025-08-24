@@ -14,11 +14,11 @@
   - [Dash](https://dash.plotly.com/) – web application framework
 
 ## Additional Resources 📚
-Juypter notebook is the development environment used to develop and test the code
-Pymongo connects python code to MongoDB
-pandas – reading and cleaning data
-matplotlib - create interactive plots 
-numpy - mathematical operations
+- Juypter notebook is the development environment used to develop and test the code
+- Pymongo connects python code to MongoDB
+- Pandas – reading and cleaning data
+- Matplotlib - create interactive plots 
+- Numpy - mathematical operations
 
 ## Reflection 📝
 
